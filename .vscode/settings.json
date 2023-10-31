@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "robot.h": "c",
+        "definations.hpp": "c",
+        "stm32f4xx.h": "c",
+        "cmath": "cpp",
+        "stm32f4xx_hal_tim.h": "c",
+        "stm32f4xx_hal_gpio.h": "c",
+        "tim.h": "c",
+        "usart.h": "c",
+        "xbee.hpp": "c",
+        "stm32f4xx_hal_uart.h": "c",
+        "motor.hpp": "c",
+        "omniwheel.hpp": "c"
+    } 
+}
